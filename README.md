@@ -1,6 +1,6 @@
 # Bhargav Kadam
 
-![Bhargav Kadam](/storage/emulated/0/Download/prompt.png)
+![Bhargav Kadam](https://raw.githubusercontent.com/BhargavK72/BhargavK72/main/prompt%20(1).png)
 
 👋 Hey there! I'm Bhargav Kadam, a tech enthusiast who loves diving into the world of programming and ethical hacking. Welcome to my coding journey!
 
