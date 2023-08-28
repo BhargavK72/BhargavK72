@@ -12,9 +12,6 @@
 - 💡 Always seeking new challenges and learning opportunities.
 
 ## My Works
-
-| Project         | Link                                                |
-|-----------------|-----------------------------------------------------|
-| AgeCalculator   | [View Project](https://bhargavk72.github.io/AgeCalculator/) |
+- [1.AgeCalculator](https://bhargavk72.github.io/AgeCalculator/) |
 
 Let's learn, innovate, and create together! 🚀
