@@ -11,7 +11,10 @@
 - 🚀 Turning curiosity into practical code and solutions.
 - 💡 Always seeking new challenges and learning opportunities.
 
-Let's learn, innovate, and create together! 🚀
+## My Works
 
-## My Works On Web
--1.Acuurate AgeCalculator(https://bhargavk72.github.io/AgeCalculator/)
+| Project         | Link                                                |
+|-----------------|-----------------------------------------------------|
+| AgeCalculator   | [View Project](https://bhargavk72.github.io/AgeCalculator/) |
+
+Let's learn, innovate, and create together! 🚀
